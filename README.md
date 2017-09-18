@@ -1,2 +1,3 @@
 # hello-world
-This is bullshit
+
+This was supposed to be the tutorial on using Git.
